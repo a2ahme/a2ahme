@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="250">
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
   Welcome to Ahmed Osama Mohsen's profile!
@@ -12,23 +12,23 @@
 
 <table>
   <tr>
-    <td>🏢 **Education**</td>
+    <td>🏢 <b>Education</b></td>
     <td>Software Engineering Student at Menoufia University, Faculty of Computers and Information</td>
   </tr>
   <tr>
-    <td>💡 **Languages**</td>
-    <td>Fluent in **Arabic (Native)** & **English (Secondary Language)**</td>
+    <td>💡 <b>Languages</b></td>
+    <td>Fluent in <b>Arabic (Native)</b> & <b>English (Secondary Language)</b></td>
   </tr>
   <tr>
-    <td>👨‍💻 **Interests**</td>
+    <td>👨‍💻 <b>Interests</b></td>
     <td>Passionate about solving problems and developing full-stack applications</td>
   </tr>
   <tr>
-    <td>💬 **Tech Skills**</td>
-    <td>Ask me about **C++**, **HTML**, **Java**, and **.NET (C#)**</td>
+    <td>💬 <b>Tech Skills</b></td>
+    <td>Ask me about <b>C++</b>, <b>HTML</b>, <b>Java</b>, and <b>.NET (C#)</b></td>
   </tr>
   <tr>
-    <td>⚡ **Fun Fact**</td>
+    <td>⚡ <b>Fun Fact</b></td>
     <td>I love coffee, and my perfect day starts and ends with a cup of it ☕</td>
   </tr>
 </table>
@@ -59,6 +59,4 @@
   </tr>
 </table>
 
-🚀 **Always excited to learn and build amazing things!**
-
-
+🚀 <b>Always excited to learn and build amazing things!</b>
